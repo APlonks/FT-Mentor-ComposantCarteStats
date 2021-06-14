@@ -35,7 +35,7 @@ Mobile design : ![Mobile](Screen_Project_Finished/Screen_Mobile_Project_Finished
 
 ### Links
 
-- Solution URL:[](https://github.com/APlonks/FT-Mentor-ComposantCarteStats.git)
+- Solution URL:![](https://github.com/APlonks/FT-Mentor-ComposantCarteStats.git)
 
 ### My process
 
@@ -52,11 +52,11 @@ Properties about background-image.
 
 ### Useful resources
 
-I used espacially [](https://developer.mozilla.org/fr/) to understand how can i introduce image in background with "good dimensions".
+I used espacially ![](https://developer.mozilla.org/fr/) to understand how can i introduce image in background with "good dimensions".
 
 ## Author
 
-- APlonks github [](https://github.com/APlonks).
+- APlonks github ![](https://github.com/APlonks).
 
 ## Acknowledgments
 
