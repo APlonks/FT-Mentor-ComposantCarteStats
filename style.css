@@ -132,9 +132,6 @@ body{
 
     .attribution{
         font-size: 10px;
-    }
-
-    .author{
-        margin-bottom: 20px;
+        margin: 0px 10px 20px 10px;
     }
 }
