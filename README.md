@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Screenshot
 
-Desktop design : [](Screen_Project_Finished/Screen_Desktop_Project_Finished.JPG)
-Mobile design : [](Screen_Project_Finished/Screen_Mobile_Project_Finished.JPG)
+Desktop design : ![Desktop](Screen_Project_Finished/Screen_Desktop_Project_Finished.JPG)
+Mobile design : ![Mobile](Screen_Project_Finished/Screen_Mobile_Project_Finished.JPG)
 
 ### Links
 
