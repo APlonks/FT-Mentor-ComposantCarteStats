@@ -56,7 +56,7 @@ I used espacially ![](https://developer.mozilla.org/fr/) to understand how can i
 
 ## Author
 
-- APlonks github ![](https://github.com/APlonks).
+- APlonks github ![Git](https://github.com/APlonks).
 
 ## Acknowledgments
 
